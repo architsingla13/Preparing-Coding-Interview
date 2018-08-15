@@ -15,4 +15,6 @@ This guide helped me get to the position where i stand today
 ## References - 
 * https://github.com/yangshun/tech-interview-handbook
 * http://blog.gainlo.co/index.php/2015/10/30/8-websites-that-can-help-you-pass-coding-interviews/
+* https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
+* https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
 
