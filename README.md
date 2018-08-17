@@ -17,4 +17,7 @@ This guide helped me get to the position where i stand today
 * http://blog.gainlo.co/index.php/2015/10/30/8-websites-that-can-help-you-pass-coding-interviews/
 * https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
 * https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
+* https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+* https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+* https://leetcode.com/explore/
 
