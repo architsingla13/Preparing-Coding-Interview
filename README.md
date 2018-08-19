@@ -20,4 +20,5 @@ This guide helped me get to the position where i stand today
 * https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 * https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
 * https://leetcode.com/explore/
-
+* http://courses.csail.mit.edu/iap/interview/materials.php
+* https://github.com/careercup/ctci/tree/master/java (Solutions to Cracking to Coding Interview)
