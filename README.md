@@ -22,3 +22,6 @@ This guide helped me get to the position where i stand today
 * https://leetcode.com/explore/
 * http://courses.csail.mit.edu/iap/interview/materials.php
 * https://github.com/careercup/ctci/tree/master/java (Solutions to Cracking to Coding Interview)
+
+## Helping with Setting up your profile for Job Hunting
+* https://medium.freecodecamp.org/genuinely-useful-career-resources-for-self-taught-developers-8e679cec25ab
