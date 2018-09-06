@@ -14,6 +14,8 @@ This guide helped me get to the position where i stand today
 
 ## System Design - 
 * https://github.com/donnemartin/system-design-primer
+* https://github.com/checkcheckzz/system-design-interview
+* https://www.hiredintech.com/system-design/the-system-design-process/
 
 ## References - 
 * https://github.com/yangshun/tech-interview-handbook
